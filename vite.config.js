@@ -7,3 +7,4 @@ export default defineConfig({
 })
 
 // しまなぎ
+// ハイサイ探偵団
