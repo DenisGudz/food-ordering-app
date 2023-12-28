@@ -7,7 +7,6 @@ function Meal({ meal }) {
   const cartCtx = useContext(CartContext)
 
   function handleAddMealToCart() {
-    // console.log(meal)
     cartCtx.addItem(meal)
   }
 
